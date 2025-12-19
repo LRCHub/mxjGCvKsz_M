@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "水平線のような僕らへ",
+  "base_artist": "Vivid Lila",
+  "createdAt": "2025-12-19T11:14:58.399552Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水平線のような僕らへ (feat. hana)",
+      "artist": "Vivid Lila",
+      "has_synced": false,
+      "path": "select/pl_01_水平線のような僕らへ_(feat._hana)_Vivid_Lila.txt"
+    }
+  ]
+}
